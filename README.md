@@ -15,8 +15,8 @@ where
 $ python app.py --in .readme/sunrise.jpg --out .readme/sunrise_pixel.jpg --colors 4 --size 128 --rstate 123432
 ```
 
-Input:
-![input](https://raw.githubusercontent.com/dominik-zeglen/pixelbrush/master/.readme/sunrise.png)
+Input:  
+![input](https://github.com/dominik-zeglen/pixelbrush/blob/master/.readme/sunrise.jpg?raw=true)
 
-Output:
-![output](https://raw.githubusercontent.com/dominik-zeglen/pixelbrush/master/.readme/sunrise_pixel.png)
+Output:  
+![output](https://github.com/dominik-zeglen/pixelbrush/blob/master/.readme/sunrise_pixel.jpg?raw=true)
